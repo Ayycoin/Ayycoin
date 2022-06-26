@@ -1,4 +1,5 @@
-### Hi there 👋
+Ayycoin is a community-driven cryptocurrency created following the AyyLmao meme—created by a group of software engineers inspired by the love of dogecoin and aliens.
+Website Ayycoin.com
 
 <!--
 **Ayycoin/Ayycoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
